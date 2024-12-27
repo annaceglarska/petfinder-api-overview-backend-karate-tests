@@ -1,0 +1,17 @@
+{
+  "name": "qa-api-challenge-annaceglarska",
+  "version": "0.1.0",
+  "description": "API tests in Karate JS",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "Anna Kikut",
+  "license": "MIT",
+  "devDependencies": {
+    "@jbangdev/jbang": "^0.2.3",
+    "@karatelabs/karate": "^0.3.2",
+    "dotenv": "^16.4.7",
+    "shelljs": "^0.8.5"
+  }
+}
